@@ -6,8 +6,7 @@ This project predicts house prices in Bangalore based on user inputs using a mac
 
 ## 🚀 Live App
 
-👉 [Open the App](#)  
-*(Replace with your Streamlit Share link when available)*
+👉 [Open the App](https://bangluruhousepriceprediction-9ankjinfvsxqjwjxbmw377.streamlit.app/)  
 
 ---
 
